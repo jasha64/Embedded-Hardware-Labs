@@ -18,9 +18,9 @@ Below are my videos for playing games with MiniGameWAVE:
 
 Diablo II
 
-[![Watch the video](./README.asset/Diablo%20II.jpg)](https://v.youku.com/v_show/id_XNDQ3NTQ0MDkzNg==.html?spm=a2hbt.13141534.0.13141534)
+[![Watch the video](README.asset/Diablo%20II.jpg)](https://v.youku.com/v_show/id_XNDQ3NTQ0MDkzNg==.html?spm=a2hbt.13141534.0.13141534)
 
 Dynasty Warriors 8 / Shin Sangokumusou 7
 
-[![Watch the video](./README.asset/Dynasty Warriors 8 (Shin Sangokumusou 7).jpg)](https://v.youku.com/v_show/id_XNDQ3NTQ0MTE4OA==.html?spm=a2hbt.13141534.0.13141534)
+[![Watch the video](README.asset/Dynasty%20Warriors%208%20(Shin%20Sangokumusou%207).jpg)](https://v.youku.com/v_show/id_XNDQ3NTQ0MTE4OA==.html?spm=a2hbt.13141534.0.13141534)
 
