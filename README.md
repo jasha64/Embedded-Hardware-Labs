@@ -2,7 +2,7 @@ Here is the code of my two elective courses in hardware.
 
 
 
-#### Arduino
+### Arduino
 
 A battery stack monitor demonstration circuit. Main feature includes: drawing input data into a chart with C#; interacting with device registers to activate passive battery cell balancing.
 
@@ -12,7 +12,7 @@ A battery stack monitor demonstration circuit. Main feature includes: drawing in
 
 
 
-#### LeapMotion
+### LeapMotion
 
 Somatosensory controller program of computer games, using LeapMotion®
 
@@ -22,7 +22,7 @@ Somatosensory controller program of computer games, using LeapMotion®
 
 
 
-#### USART Comm
+### USART Comm
 
 A communication program that converts the incoming data frame into the accepted format and sends it to the robot, and communicates with the host computer on demand
 
@@ -32,7 +32,7 @@ A communication program that converts the incoming data frame into the accepted 
 
 
 
-#### In-App Prog
+### In-App Prog
 
 In-Application Programming (IAP) system for our board
 
